@@ -6,7 +6,8 @@ const Footer = () => {
          <div className="footer-copyright">
             <div className="container">
                {new Date().getFullYear()} Copyright Text
-               <a href="!#" className="grey-text text-lighten-4 right">Repo</a>
+               <a href="https://maxradchenko20.github.io/REACT_API--FORTNITE/" target="_blank"
+                  className="grey-text text-lighten-4 right">Repo</a>
             </div>
          </div>
       </footer>
