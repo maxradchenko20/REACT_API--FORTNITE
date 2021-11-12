@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT_API--FORTNITE/static/css/main.20113021.chunk.css",
+    "main.js": "/REACT_API--FORTNITE/static/js/main.af95bc67.chunk.js",
+    "main.js.map": "/REACT_API--FORTNITE/static/js/main.af95bc67.chunk.js.map",
+    "runtime-main.js": "/REACT_API--FORTNITE/static/js/runtime-main.ae35bc69.js",
+    "runtime-main.js.map": "/REACT_API--FORTNITE/static/js/runtime-main.ae35bc69.js.map",
+    "static/js/2.ded3207d.chunk.js": "/REACT_API--FORTNITE/static/js/2.ded3207d.chunk.js",
+    "static/js/2.ded3207d.chunk.js.map": "/REACT_API--FORTNITE/static/js/2.ded3207d.chunk.js.map",
+    "index.html": "/REACT_API--FORTNITE/index.html",
+    "static/css/main.20113021.chunk.css.map": "/REACT_API--FORTNITE/static/css/main.20113021.chunk.css.map",
+    "static/js/2.ded3207d.chunk.js.LICENSE.txt": "/REACT_API--FORTNITE/static/js/2.ded3207d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae35bc69.js",
+    "static/js/2.ded3207d.chunk.js",
+    "static/css/main.20113021.chunk.css",
+    "static/js/main.af95bc67.chunk.js"
+  ]
+}
